@@ -8,28 +8,28 @@
     
     <url>
         <loc>http://loveyna.com/404.html</loc>
-        <lastmod>2018-01-31T07:00:03.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://loveyna.com/about/</loc>
-        <lastmod>2018-01-31T07:00:03.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://loveyna.com/tags/</loc>
-        <lastmod>2018-01-31T07:00:03.000Z</lastmod>
+        <lastmod>2018-02-01T02:32:13.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://loveyna.com/archive/</loc>
-        <lastmod>2018-01-31T07:00:03.000Z</lastmod>
+        <lastmod>2018-02-01T02:32:13.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://loveyna.com/about/</loc>
+        <lastmod>2018-02-01T02:32:13.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://loveyna.com/tags/</loc>
+        <lastmod>2018-02-01T02:32:13.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
